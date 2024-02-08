@@ -34,5 +34,3 @@ _For this project, look at these concepts:_
 * All functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
 * A documentation is a real sentence explaining purpose of the module, class or method (length will be verified)
 * All functions should be type annotated
-
-## Finally...
